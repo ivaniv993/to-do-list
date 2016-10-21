@@ -1,0 +1,31 @@
+.btn {
+    background: #ffffff;
+    color: #000000;
+    border-radius: 22px;
+    font-family: Arial;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    margin: 10px 10px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+}
+
+.btn-overdue {
+    background: #ffb0fd;
+    text-decoration: none;
+}
+
+.add-btn {
+    background: #ffffff;
+    color: #000000;
+    border-radius: 22px;
+    font-family: Arial;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    margin: 10px 10px;
+    text-decoration: none;
+}
